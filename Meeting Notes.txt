@@ -1,7 +1,7 @@
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 9/29
 Data Cleaning
-* subset data - choose a vendor to focus on 
+* subset data - Store Name: Hill Street News and Tabacco | Years: start of 2017 - end of 2020
     * Client A: county, storefront, year, sales info
         * see trends for single company over past X years to predict following year
     * Client B: county, type of alc
