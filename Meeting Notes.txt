@@ -1,17 +1,1 @@
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
-9/29
-Data Cleaning
-
-    * Client A: county, storefront, year, sales info
-        * subset data - Store Name: Hill Street News and Tabacco | Years: start of 2017 - end of 2020
-        * see trends for single company over past X years to predict following year
-
-    * Client B: Sale (Dollars), county, im_desc (name of alc) OR vener_name (name of company that creates alc), store number, city, date
-        * Classify alc as low, med, or high cost alc - sale/amount sold in liters
-        * Classify each purchase as near holiday or not (2 weeks until day of holiday)
-           * 4th of July, Halloween, Cinco De Mayo, etc
-        * Whether store location is near a large college OR population of county/city and whether this is a large amount (for Iowa)
-        * Classify each purchase as high or low purchase (and medium?)
-
-* check categories in data to classify liquor into hard and not hard
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+https://docs.google.com/document/d/1YCODpzlMiGfFc4GA7cwimUnj49hElPf8NWfLZhLQjSg/edit?usp=sharing
